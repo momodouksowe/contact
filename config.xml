@@ -3,7 +3,7 @@
   <name>Ashesi</name>
   <description>Contacts Finder</description>
   <author href="http://cordova.io" email="dev@cordova.apache.org">Apache Cordova Team </author>
-  <content src="index.html" />
+  <content src="AdminResturant.html" />
   <access origin="*" />
   <vs:features />
   <preference name="SplashScreen" value="screen" />
